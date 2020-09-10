@@ -1,13 +1,13 @@
 # Site settings
-title: zxt
+title: 郑学腾的博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+ 这是一个好的博客
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://a1169.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: zxt
+  fullname: 郑学腾
   github: github
   email: 1169315321@qq.com
 
