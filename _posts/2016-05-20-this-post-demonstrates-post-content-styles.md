@@ -2,8 +2,8 @@
 layout: page
 title: "李白的简介"
 subtitle: "我所热爱的诗人"
-date:   2016-05-20 21:21:21 +0530
-categories: junk
+date:   2020-05-20 21:21:21 +0530
+categories: Great
 author: "Bart Simpson"
 meta: "Springfield"
 ---  
