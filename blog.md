@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of Pudhina
+title: 执念的博客
+subtitle: 执着地信念为你而存在
 ---
 
 <div>

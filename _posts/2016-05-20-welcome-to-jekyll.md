@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Welcome to Pudhina"
-subtitle: "A minimal Jekyll theme"
+title:  "欢迎来到执念的博客"
+subtitle: "一个沙雕的博客"
 date:   2016-05-20 21:21:21 +0530
 categories: ["general"]
 ---
