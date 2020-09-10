@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  "Some articles are just so long they deserve a really long title to see if things will break well"
-subtitle: "A shorter explanation of stuff"
+title:  今天你网抑云了吗？
+subtitle: 一个深夜的上号软件
 date:   2016-05-20 21:21:21 +0530
 categories: misc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+"网抑云"这个梗一时之间火了起来，许多网友以"生而为人，我很抱歉"这句话为基础，展开了丰富的段子创作，对网抑云音乐评论区开展了一场有力的反击。最后的成效非常明显，"生不出人，我很抱歉"在引用频率上占领了高地，以恰如其分的幽默击败了那群出言必谈及抑郁的人。
+因评论区中存在大量抑bai郁情绪发言而得名。（不du针对抑郁症患者，但是不包括假装zhi抑郁人设来博取别人的关心dao的人）
+这些用户的常用关键词有：失恋、考研、大海、酒精、52赫兹的鲸鱼
+有网友调侃道网易云音乐的用户人均经受考研+失恋的双重打击
+大部分发表丧言论的用户都来源于复制粘贴，而真正在歌曲中抒发情感的评论往往被挤出了热评中。
