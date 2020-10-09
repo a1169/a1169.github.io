@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>两国交好，不动干戈</p>
-	<p>和平与发展 <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>和平与发展 <strong> <a href="https://github.com/knhash/Pudhina"> </a> </strong></p>
 </div>
